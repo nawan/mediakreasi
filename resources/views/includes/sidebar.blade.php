@@ -202,7 +202,7 @@
                     <a href="#" class="nav-link">
                     <i class="nav-icon fas fa-money-check"></i>
                     <p>
-                        Billing
+                        Pembayaran
                         <i class="fas fa-angle-left right"></i>
                     </p>
                     </a>
@@ -210,7 +210,7 @@
                         <li class="nav-item">
                             <a href="{{ route('keuangan.index') }}" class="nav-link">
                             <i class="far fa-circle nav-icon" style="color: transparent"></i>
-                            <p>Pembayaran</p>
+                            <p>Bayar</p>
                             </a>
                         </li>
                         <li class="nav-item">
